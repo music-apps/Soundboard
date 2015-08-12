@@ -1,0 +1,1 @@
+ I am modifying it to read mp3 files from the web and to play them.  I found a great website: http://howjsay.com which has a library of pronunciations of English words.  In this repo I want to scrape the words and then add links to play the sounds on Apple devices.
